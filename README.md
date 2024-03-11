@@ -7,12 +7,12 @@ In this project, we have analyzed the interactions that users have with articles
 
 # Tasks
 
-I. Exploratory Data Analysis
-II. Rank Based Recommendations
-III. User-User Based Collaborative Filtering
-IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
-V. Matrix Factorization
-VI. Extras & Concluding
+- Exploratory Data Analysis
+- Rank Based Recommendations
+- User-User Based Collaborative Filtering
+- Content Based Recommendations (EXTRA - NOT REQUIRED)
+- Matrix Factorization
+- Extras & Concluding
 
 # Data 
 articles_community and user-item-interactions
